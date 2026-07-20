@@ -266,6 +266,49 @@ nav button {
     cursor: pointer;
 }
 
+.ai-section{
+    text-align: center;
+    padding: 50px;
+    background-color: #f3edff;
+}
+
+.ai-section h2{
+    color: blueviolet;
+    font-size: 35px;
+}
+
+.ai-section p{
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.ai-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box{
+    width: 220px;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+
+.box h3{
+    color: blueviolet;
+}
+
+button{
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
 footer {
     background-color: #0f172a;
     color: white;
